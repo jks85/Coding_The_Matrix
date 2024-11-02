@@ -30,6 +30,3 @@ Chapter 11: Singular Value Decomposition (not started)
 Chapter 12: The Eigenvector (not started)
 Chapter 13: The Linear Program (not started)
 
-
-
-Chapter 8:
