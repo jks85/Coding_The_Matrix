@@ -1,0 +1,14 @@
+Chapter 2: The Vector
+
+The files in this directory include coding assignments from The Vector. Some source files needed to test procedures
+(e.g. text files) may not be included in this repo.
+
+Notes:
+
+1) The file vec.py can be found in the main repo as the module is used in multiple chapters.
+
+2) The file vec.py was provided and included the class Vec. Problem 2.14.10 required completing the unfinished
+procedures in vec.py. The vec.py file can be found in the main repository
+
+Voting.py: Lab 2.12 Comparing voting records using dot-products
+vec.py: Write selected procedures for Vec class

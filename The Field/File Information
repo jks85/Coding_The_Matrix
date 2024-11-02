@@ -1,0 +1,7 @@
+Chapter 1: The Field
+
+The files in this directory include coding assignments from The Field. Some source files needed to test procedures
+(e.g. images) are not included in this repo
+
+The_Field.py: Playing with C (Complex Field), (1.4 tasks)
+CompsandLoops.py: Python Comprehension Problems (1.7 tasks)

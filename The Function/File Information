@@ -1,0 +1,9 @@
+Chapter 0: The Function
+
+The files in this directory include coding assignments from The Function. Some source files needed to test procedures
+(e.g. text files) are not included in this repo
+
+python_lab.py: Lab 0.5 Introduction to Python-- sets, lists, dictionaries, and comprehensions
+Lab 0.6.py: Lab 0.6 Python-- modules and control structures
+InverseIndex.py: Contains 0.6.7 Mini-search engine tasks
+The_Function_Problems.py: Python Comprehension problem (0.8 Tasks)
