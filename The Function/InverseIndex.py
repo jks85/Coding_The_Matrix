@@ -9,7 +9,7 @@ def makeInverseIndex(strlist):
     doc_strings = [i.split() for i in strlist]
 
     # create set of unique strings across all docs.
-    # use of sum() here puts strings into a single list
+    # use of sum() puts strings into a single list
     # use of set() constructor removes repeat strings
     all_strings = set(sum(doc_strings, []))
 
