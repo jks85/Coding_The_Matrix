@@ -1,6 +1,6 @@
 **Description of Repo Files:**
 
-*Status: Solutions are in progress. Chapters 1-3 are **completed** and Chapter 4 is partially complete.*
+*Status: Solutions are in progress. Chapters 1-4 are **completed** and Chapter 5 is in progress.*
 
 This repo contains my solutions to the coding problems from the textbook Coding the Matrix: Linear Algebra through Computer Science 
 Applications. Each of directory in the repo corresponds to a chapter. Directories include of solutions to assignments and in some
@@ -20,7 +20,7 @@ List of Chapters:
 2. The Vector (completed)
 3. The Vector Space (completed)
 4. The Matrix (completed)
-5. The Basis (not started)
+5. The Basis (in progress)
 6. Dimension (not started)
 7. Gaussian Elimination (not started)
 8. The Inner Product (not started)
