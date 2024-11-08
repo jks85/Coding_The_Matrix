@@ -4,6 +4,10 @@ from vecutil import list2vec
 from vec import Vec
 from mat import Mat
 
+
+
+
+
 # Matrix-vector and vector-matrix multiplication procedures
 # In this assignment we write alternative vector/matrix multiplication procedures using the matutil module
 # Cannot use the multiplication procedures defined in the Mat class

@@ -11,6 +11,7 @@ Notes:
 procedures in vec.py. The vec.py file can be found in the main repository
 
 Error_Correcting.py: Lab Error-correcting codes
-Transformations_2D.py: Lab Transformations in @d geometry (incomplete)
-mat.py: Write selected procedures for Vec class (Problem 4.17.12)
-Matrix_problems.py: various procedures coding matrix operations outside of the Mat class
+mat.py: Defined selected procedures for Mat class (Problem 4.17.12)
+Matrix_problems.py: Various procedures defining matrix operations outside of the Mat class
+transform.py: Lab 2D transformations, Tasks 4.15.2 to 4.15.12
+2D_Transformations.py: Lab 2D transformations, Task 4.15.1

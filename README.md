@@ -1,6 +1,6 @@
-Description of Repo Files:
+**Description of Repo Files:**
 
-Status: Solutions are in progress. Chapters 1-3 are complete and Chapter 4 is partially complete.
+*Status: Solutions are in progress. Chapters 1-3 are **completed** and Chapter 4 is partially complete.*
 
 This repo contains my solutions to the coding problems from the textbook Coding the Matrix: Linear Algebra through Computer Science 
 Applications. Each of directory in the repo corresponds to a chapter. Directories include of solutions to assignments and in some
@@ -15,18 +15,18 @@ chapter directories for assignment details.
 
 List of Chapters:
 
-Chapter 0: The Function (completed)
-Chapter 1: The Field (completed)
-Chapter 2: The Vector (completed)
-Chapter 3: The Vector Space (completed)
-Chapter 4: The Matrix (in progress)
-Chapter 5: The Basis (not started)
-Chapter 6: Dimension (not started)
-Chapter 7: Gaussian Elimination (not started)
-Chapter 8: The Inner Product (not started)
-Chapter 9: Orthogonalization (not started)
-Chapter 10: Special Bases (not started)
-Chapter 11: Singular Value Decomposition (not started)
-Chapter 12: The Eigenvector (not started)
-Chapter 13: The Linear Program (not started)
+0. The Function (completed)
+1. The Field (completed)
+2. The Vector (completed)
+3. The Vector Space (completed)
+4. The Matrix (completed)
+5. The Basis (not started)
+6. Dimension (not started)
+7. Gaussian Elimination (not started)
+8. The Inner Product (not started)
+9. Orthogonalization (not started)
+10. Special Bases (not started)
+11. Singular Value Decomposition (not started)
+12. The Eigenvector (not started)
+13. The Linear Program (not started)
 
